@@ -1,9 +1,9 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: David Hopson's CV 
+description: David Hopson's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+baseurl: 
+url: http://localhost
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -14,72 +14,63 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
+  name: David Hopson
+  title: NodeJS Developer
+  address: West Yorkshire, UK
+  email: mantle@hotmail.co.uk
+  link: https://github.com/darkmantle
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
-  gavatar: /resumecard/assets/img/avatar.JPG
+  github: darkmantle
+  linkedin: davidhopson90
+  gavatar: /assets/img/avatar.JPG
   stackoverflow:
-#  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
+      company: Itap Group
+      location: London, UK
+      title: Software Developer Developer
+      started: 2018
+      duration: Mar 2018 - Jul 2020
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work2:
-      company: XXX Ltd
-      location: Shanghai, China
+      company: Chooz.Pics
+      location: London, UK
+      title: Chief Technology Officer
+      started: 2016
+      duration: Jun 2016 - Mar 2018
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - work3:
+      company: Self-Employed
+      location: England, UK
       title: Java Developer
       started: 2012
       duration: (2012 - 2014)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
+      organization: University of Leeds
+      location: Leeds, UK
       degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
+      major: Computer Science
+      started: 2012
+      duration: 2012 - 2016
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-  languages:
-    - language1:
-      name: Chinese
-      proficiency: Native
-    - language2:
-      name: English
-      proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
   programmingSkills:
     - skill1:
-      name: HTML
+      name: NodeJS
       percentage: 100%
     - skill2:
-      name: Bootstrap
+      name: Angular
       percentage: 90%
     - skill3:
-      name: JavaScript
-      percentage: 70%
+      name: React
+      percentage: 80%
     - skill4:
-      name: AngularJS
-      percentage: 70%
-    - skill5:
-      name: Java/Java EE
+      name: TypeScript
       percentage: 90%
+    - skill5:
+      name: React Native
+      percentage: 65%
+    - skill6:
+      name: PHP
+      percentage: 70%
